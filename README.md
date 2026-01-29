@@ -255,7 +255,7 @@ For support, questions, or inquiries:
 </p>
 
 <p align="center">
-  <b>Cow Kino</b> was developed by <a href="https://github.com/Faisal-BD">Aminur Refat Faisal</a> with ❤️
+  <b>Cow Kino</b> was developed by <a href="https://github.com/Faisal-BD">Aminur Refat Faisal</a> and Team <3
 </p>
 
 <p align="center">
