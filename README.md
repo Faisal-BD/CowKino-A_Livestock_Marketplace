@@ -1,4 +1,4 @@
-# CowKino - Cattle E-Commerce Platform
+# CowKino - A Livestock Marketplace
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -255,7 +255,7 @@ For support, questions, or inquiries:
 </p>
 
 <p align="center">
-  <b>Cow Kino</b> was developed by <a href="https://github.com/raidibney">Raid Ibney Hasan</a> with ❤️
+  <b>Cow Kino</b> was developed by <a href="https://github.com/Faisal-BD">Aminur Refat Faisal</a> with ❤️
 </p>
 
 <p align="center">
